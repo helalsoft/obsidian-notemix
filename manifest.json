@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-notemix",
+	"name": "Notemix",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Pack your notes into AI-friendly context bundles.",
+	"author": "Helalsoft",
+	"authorUrl": "https://github.com/helalsoft/obsidian-notemix",
+	"isDesktopOnly": true
+}
